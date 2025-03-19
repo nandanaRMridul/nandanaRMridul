@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building my JavaScript knowledge<br>🌱 I’m currently learning<br>💬 Ask me about HTML, CSS or Bootstrap<br>⚡ Fun fact: I'm convinced that 'undefined' is JavaScript's way of saying 'I have no idea what you're doing.'
+🔭 I’m currently working on building my JavaScript knowledge<br>🌱 I’m currently learning JavaScript Fundamentals<br>💬 Ask me about HTML, CSS or Bootstrap<br>⚡ Fun fact: I'm convinced that 'undefined' is JavaScript's way of saying 'I have no idea what you're doing.'
 
 
 ## 🌐 Socials:
