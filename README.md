@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building my BackEnd skills <br>🌱 Currently learning NodeJs Fundamentals<br>💬 Ask me about HTML, CSS, Bootstrap, Tailwind or React <br>
+🔭 I’m currently working on building my BackEnd skills <br>🌱 Currently learning NodeJS Fundamentals<br>💬 Ask me about HTML, CSS, Bootstrap, Tailwind or React <br>
 
 
 ## 🌐 Socials:
